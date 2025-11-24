@@ -1,9 +1,0 @@
-[custom]
-
-;RURURUST
-ruleset=🎯 Taha,https://raw.githubusercontent.com/mister-taha/Others/refs/heads/main/IP%20CF.txt
-
-enable_rule_generator=true
-overwrite_original_rules=true
-
-;luck
